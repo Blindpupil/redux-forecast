@@ -6,3 +6,6 @@ npm-debug.log
 # IDE
 *.iml
 /.idea
+
+# Private
+/src/config/keys.js
